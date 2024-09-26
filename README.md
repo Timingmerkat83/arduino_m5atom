@@ -13,4 +13,11 @@ https://espressif.github.io/arduino-esp32/package_esp32_index.json
 > [!IMPORTANT]
 > Version to download is 2.0.11.
 
+- Trouver la bibliothèque M5Atom, by **M5Stack**
+  - Ajouter la bibliothèque M5Atom
+> [!IMPORTANT]
+> Version to download is 0.1.0
+
+
+
 
